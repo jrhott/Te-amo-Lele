@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Surpresa</title>
+    <script>
+        window.onload = function() {
+            alert("EU TE AMO MUITO MAIS QUE INFINITO MINHA PRINCESA LELE");
+        };
+    </script>
+</head>
+<body>
+    <h1>Te amo, Lele! 💖</h1>
+</body>
+</html>
